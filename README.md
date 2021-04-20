@@ -1,7 +1,7 @@
 ## Sobre mim ✍️
 - Desenvolvedor Full Stack 🚀 
-- Cusando em Ciências da Computação 🎓
-- Apaixonado por programação, tecnologia e pets 👨‍💻💙
+- Cursando Ciências da Computação
+- Apaixonado por programação, tecnologia e pets 💻
 - Trabalho atualmente com React, Python e Node.
 - Estudando NodeJS com Express
 
