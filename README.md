@@ -6,4 +6,4 @@
 - Estudando NodeJS com Express
 
 ## Contato
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-da-silva-cavalcante-a072031a8/)
+[![linkedin](www.linkedin.com/in/andersoncavalcantedev)
