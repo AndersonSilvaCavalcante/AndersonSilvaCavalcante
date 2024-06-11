@@ -1,9 +1,9 @@
 ## Sobre mim ✍️
-- Desenvolvedor Front-End
-- Cursando Ciências da Computação
-- Apaixonado por programação, tecnologia e pets 💻
-- Trabalho atualmente com React, Python e Node.
-- Estudando NodeJS com Express
+- Desenvolvedor Júnior
+- Cursando Analise e Desenvolvimento de Sistemas
+- Apaixonado por programação e tecnologia 💻
+- Trabalho atualmente com React, NextJS, NestJS, Python e Node.
+- Estudando Angular
 
 ## Contato
-[![linkedin](www.linkedin.com/in/andersoncavalcantedev)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andersoncavalcantedev)
