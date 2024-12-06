@@ -1,8 +1,8 @@
 ## Sobre mim ✍️
-- Desenvolvedor Júnior
-- Cursando Analise e Desenvolvimento de Sistemas
+- Desenvolvedor Full Stack
+- Graduado em Analise e Desenvolvimento de Sistemas
 - Apaixonado por programação e tecnologia 💻
-- Trabalho atualmente com React, NextJS, NestJS, Python e Node.
+- Trabalho atualmente com Typescript, React, React Native, NextJS, NestJS e Node.
 - Estudando Angular
 
 ## Contato
